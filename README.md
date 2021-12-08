@@ -11,7 +11,7 @@ simple scetching app
 
 | Project | Link | Features |
 |------|-------|-------|
-| Android - Recipes | [github](https://github.com/igorek1955/recipes-app) | RoomDB, Retrofit, Motion, NightMode, LiveData, DataBinding |
+| Android - Recipes | [github](https://github.com/igorek1955/recipes-app) | RoomDB, Retrofit, Dagger-Hilt, Motion, NightMode, LiveData, DataBinding, ViewPager2 |
 | Android - RoomDBApp  | [github](https://github.com/igorek1955/roomdbapp) | RoomDB |
 | Android - WhatsAppBetaClone  | [github](https://github.com/igorek1955/whatsapp-beta-android) | Firebase |
 | Android - RecordKeeperApp  | [github](https://github.com/igorek1955/record-keeper-android) | Android SDK |
